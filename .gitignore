@@ -1,0 +1,4 @@
+source.sh
+venv
+__pycache__
+database.json
